@@ -7,6 +7,10 @@ import cn.mldn.dibmp.vo.Member;
 
 
 public interface IMemberService {
+<<<<<<< HEAD
+	
+=======
+>>>>>>> refs/heads/master
 	/**
 	 * 根据用户ID获得一个用户的完整对象信息，包含有密码和锁定状态
 	 * @param mid 要查询的用户ID
